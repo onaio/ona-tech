@@ -7,3 +7,11 @@ Javascript
 
 **Charts**
 * [dimplejs](http://dimplejs.org/) - refined D3 chart libary.
+
+
+
+Web Dev Resources
+=================
+**Chrome Extensions**
+* [POST Man REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
+* [Battarang AngularJS](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)
