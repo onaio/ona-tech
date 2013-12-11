@@ -19,7 +19,7 @@ Web Dev Resources
 
 API Documenting and Testing
 ===========================
-* [RAML](http://www.youtube.com/watch?v=hv2NEW0uC1o) and its [hosted version](http://www.apihub.com/)
+* [RAML](http://raml.org) and its [hosted version](http://www.apihub.com/)
 * [APIary](http://apiary.io/)
 
 Server load Testing
