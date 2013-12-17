@@ -17,6 +17,11 @@ Javascript
 **Misc**
 * [SpinKit](http://tobiasahlin.com/spinkit/) - some cool status icons
 
+Python
+======
+
+**Data Viz**
+* [Seaborn] - (http://stanford.edu/~mwaskom/software/seaborn/index.html) - really nice matplotlib data viz library
 
 
 
