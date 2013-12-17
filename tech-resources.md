@@ -21,7 +21,7 @@ Python
 ======
 
 **Data Viz**
-* [Seaborn] - (http://stanford.edu/~mwaskom/software/seaborn/index.html) - really nice matplotlib data viz library
+* [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html) - really nice matplotlib data viz library
 
 
 
