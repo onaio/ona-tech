@@ -10,6 +10,7 @@ Javascript
 
 **Charts**
 * [dimplejs](http://dimplejs.org/) - refined D3 chart libary.
+* [justGage](http://justgage.com/) - gauge widget
 
 **Tables**
 * [jquery spreadsheet](http://visop-dev.com/jQuery.sheet/jquery.sheet.html)
