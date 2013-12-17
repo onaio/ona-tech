@@ -15,6 +15,9 @@ Javascript
 **Tables**
 * [jquery spreadsheet](http://visop-dev.com/jQuery.sheet/jquery.sheet.html)
 
+**Leaflet**
+* [Location control](http://domoritz.de/leaflet-locatecontrol/demo) - widget to show your location on the map
+
 **Misc**
 * [SpinKit](http://tobiasahlin.com/spinkit/) - some cool status icons
 
