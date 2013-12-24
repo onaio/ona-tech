@@ -14,6 +14,9 @@ Javascript
 
 **Tables**
 * [jquery spreadsheet](http://visop-dev.com/jQuery.sheet/jquery.sheet.html)
+* [Backgrid.js](http://backgridjs.com/)
+* [DataTables](http://datatables.net/)
+* [DynaTable](http://www.dynatable.com/)
 
 **Leaflet**
 * [Location control](http://domoritz.de/leaflet-locatecontrol/demo) - widget to show your location on the map
