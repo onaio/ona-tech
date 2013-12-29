@@ -1,49 +1,47 @@
-Tech Resources
-==============
+# Tech Resources
 
 
-Javascript
-==========
+## Javascript
 
-**MVC Frameworks**
+#### MVC Frameworks
 * [FeatherJS](http://feathersjs.com/) - express based JS rest service
 
-**Charts**
+#### Charts
 * [dimplejs](http://dimplejs.org/) - refined D3 chart libary.
 * [justGage](http://justgage.com/) - gauge widget
 
-**Tables**
+#### Tables
 * [jquery spreadsheet](http://visop-dev.com/jQuery.sheet/jquery.sheet.html)
 * [Backgrid.js](http://backgridjs.com/)
 * [DataTables](http://datatables.net/)
 * [DynaTable](http://www.dynatable.com/)
 
-**Leaflet**
+#### Leaflet
 * [Location control](http://domoritz.de/leaflet-locatecontrol/demo) - widget to show your location on the map
 
-**Misc**
+#### Misc
 * [SpinKit](http://tobiasahlin.com/spinkit/) - some cool status icons
 
-Python
-======
+## Python
 
-**Data Viz**
+#### Data Viz
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html) - really nice matplotlib data viz library
 
 
 
-Web Dev Resources
-=================
-**Chrome Extensions**
+## Web Dev Resources
+
+#### Web Frameworks
+* [Zotonic Architecture](http://aosabook.org/en/posa/zotonic.html)
+
+#### Chrome Extensions
 * [POST Man REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
 * [Battarang AngularJS](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)
 
 
-API Documenting and Testing
-===========================
+## API Documenting and Testing
 * [RAML](http://raml.org) and its [hosted version](http://www.apihub.com/)
 * [APIary](http://apiary.io/)
 
-Server load Testing
-===================
+## Server load Testing
 * [blitz.io](https://www.blitz.io/)
