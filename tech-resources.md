@@ -9,6 +9,8 @@
 #### Charts
 * [dimplejs](http://dimplejs.org/) - refined D3 chart libary.
 * [justGage](http://justgage.com/) - gauge widget
+* [circles](https://github.com/lugolabs/circles) - circle charts
+* [25 d3 libraries](https://gist.github.com/widged/6820559)
 
 #### Tables
 * [jquery spreadsheet](http://visop-dev.com/jQuery.sheet/jquery.sheet.html)
