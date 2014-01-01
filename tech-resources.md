@@ -10,6 +10,7 @@
 * [dimplejs](http://dimplejs.org/) - refined D3 chart libary.
 * [justGage](http://justgage.com/) - gauge widget
 * [circles](https://github.com/lugolabs/circles) - circle charts
+* [datamaps](http://datamaps.github.io/) - simple svg maps
 * [25 d3 libraries](https://gist.github.com/widged/6820559)
 
 #### Tables
