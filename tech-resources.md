@@ -18,6 +18,10 @@
 * [Backgrid.js](http://backgridjs.com/)
 * [DataTables](http://datatables.net/)
 * [DynaTable](http://www.dynatable.com/)
+* 
+
+### CSS
+* [colors.css](http://clrs.cc/) - nice color pallete. overwrite's defaults
 
 #### Leaflet
 * [Location control](http://domoritz.de/leaflet-locatecontrol/demo) - widget to show your location on the map
