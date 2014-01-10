@@ -18,7 +18,9 @@
 * [Backgrid.js](http://backgridjs.com/)
 * [DataTables](http://datatables.net/)
 * [DynaTable](http://www.dynatable.com/)
-* 
+
+#### Utils
+* [PhantomJS](http://phantomjs.org/) - headless webkit
 
 ### CSS
 * [colors.css](http://clrs.cc/) - nice color pallete. overwrite's defaults
