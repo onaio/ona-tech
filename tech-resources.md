@@ -6,14 +6,13 @@
 #### MVC Frameworks
 * [FeatherJS](http://feathersjs.com/) - express based JS rest service
 
-#### Charts
+#### Javascript Charts
 * [dimplejs](http://dimplejs.org/) - refined D3 chart libary.
 * [justGage](http://justgage.com/) - gauge widget
 * [circles](https://github.com/lugolabs/circles) - circle charts
 * [datamaps](http://datamaps.github.io/) - simple svg maps
 * [25 d3 libraries](https://gist.github.com/widged/6820559)
 * [Rickshaw by Shutterstock](http://code.shutterstock.com/rickshaw) - Clean and simple
-* [PyGal](http://pygal.org/chart_types/#bar-charts-histograms) - Python SVG chart library
 
 #### Tables
 * [jquery spreadsheet](http://visop-dev.com/jQuery.sheet/jquery.sheet.html)
@@ -43,6 +42,7 @@
 
 #### Data Viz
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html) - really nice matplotlib data viz library
+* [PyGal](http://pygal.org/chart_types/#bar-charts-histograms) - Python SVG chart library
 
 
 
