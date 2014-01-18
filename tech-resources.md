@@ -47,6 +47,8 @@
 #### Data Viz
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html) - really nice matplotlib data viz library
 * [PyGal](http://pygal.org/chart_types/#bar-charts-histograms) - Python SVG chart library
+* [CairoSVG] - SVG to PNG python Library
+* [Converting SVG to PNG Python](http://stackoverflow.com/questions/6589358/convert-svg-to-png-in-python)
 
 
 
