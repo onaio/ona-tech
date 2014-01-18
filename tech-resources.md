@@ -20,6 +20,9 @@
 * [DataTables](http://datatables.net/)
 * [DynaTable](http://www.dynatable.com/)
 
+#### HTML5
+* [SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
+
 #### Utils
 * [PhantomJS](http://phantomjs.org/) - headless webkit
 
