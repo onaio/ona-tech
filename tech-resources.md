@@ -13,6 +13,7 @@
 * [datamaps](http://datamaps.github.io/) - simple svg maps
 * [25 d3 libraries](https://gist.github.com/widged/6820559)
 * [Rickshaw by Shutterstock](http://code.shutterstock.com/rickshaw) - Clean and simple
+* [Angular Charts](http://chinmaymk.github.io/angular-charts/)
 
 #### Tables
 * [jquery spreadsheet](http://visop-dev.com/jQuery.sheet/jquery.sheet.html)
