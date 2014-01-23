@@ -68,3 +68,6 @@
 
 ## Server load Testing
 * [blitz.io](https://www.blitz.io/)
+
+## Performance
+* [Trello Board optimizations](http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/) - good advice on speeding up browser rendering with simplified CSS and progressive updates to dom and usage of backbone.
