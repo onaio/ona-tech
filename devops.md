@@ -7,3 +7,4 @@
 
 ### AWS
 * [AWS Tips I wish I had known before I started](http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
+* [ICE](https://github.com/Netflix/ice) - AWS Usage tool
