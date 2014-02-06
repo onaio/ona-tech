@@ -1,4 +1,4 @@
-# Tech Resources
+# Web Dev Resources
 
 
 ## Javascript
