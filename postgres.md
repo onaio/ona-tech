@@ -18,4 +18,4 @@ Postgres
 
 
 **Security**
-*[Total security in a PostgreSQL database](http://www.ibm.com/developerworks/library/os-postgresecurity/) - Detailed primer by IBM
+* [Total security in a PostgreSQL database](http://www.ibm.com/developerworks/library/os-postgresecurity/) - Detailed primer by IBM
