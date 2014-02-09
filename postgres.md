@@ -15,3 +15,7 @@ Postgres
 
 **Scaling**
 * [How to scale a RDB with Amazon ECD RDBS](http://answers.oreilly.com/topic/2626-how-to-scale-a-relational-database-with-amazon-ec2/)
+
+
+**Security**
+*[Total security in a PostgreSQL database](http://www.ibm.com/developerworks/library/os-postgresecurity/) - Detailed primer by IBM
