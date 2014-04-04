@@ -1,6 +1,9 @@
 Postgres
 ========
 
+**Columnar Stores**
+* [PostgreSQL Columnar Store for Analytic Workloads](http://www.citusdata.com/blog/76-postgresql-columnar-store-for-analytics)
+
 **Consistency**
 * [Call me maybe: Postgres](http://aphyr.com/posts/282-call-me-maybe-postgres)
 
