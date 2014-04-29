@@ -9,4 +9,4 @@
 * [ICE](https://github.com/Netflix/ice) - AWS Usage tool
 
 ### Infrastructure Automation
-* [Pallet](http://palletops.com/doc/first-steps/)
+* [Pallet](http://palletops.com/doc/first-steps/) - Pallet is platform for agile and programmatic automation of infrastructure in the cloud, on server racks or directly on virtual machines.
