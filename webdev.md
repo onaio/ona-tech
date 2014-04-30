@@ -24,6 +24,8 @@
 * [Chosen](http://harvesthq.github.io/chosen/) - jquery select library
 * [Selecter](http://formstone.it/components/Selecter/demo/index.html) - really clean jquery plugin for pull downs
 * [SelectBoxIt](http://gregfranko.com/jquery.selectBoxIt.js/#Examples) - Jquery / bootstrap pull down plugin
+* [DDSlick](http://designwithpc.com/Plugins/ddSlick#demo) - nice CSS pulldown with image and description support
+* [file tree](http://labs.abeautifulsite.net/archived/jquery-fileTree/demo/) - file tree pulldown
 
 #### HTML5
 * [SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
