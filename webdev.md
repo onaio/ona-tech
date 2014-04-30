@@ -26,6 +26,7 @@
 * [SelectBoxIt](http://gregfranko.com/jquery.selectBoxIt.js/#Examples) - Jquery / bootstrap pull down plugin
 * [DDSlick](http://designwithpc.com/Plugins/ddSlick#demo) - nice CSS pulldown with image and description support
 * [file tree](http://labs.abeautifulsite.net/archived/jquery-fileTree/demo/) - file tree pulldown
+* [Bootstrap Select](http://silviomoreto.github.io/bootstrap-select/) - alternative select menu for bootstrap
 
 #### HTML5
 * [SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
