@@ -27,6 +27,7 @@
 * [DDSlick](http://designwithpc.com/Plugins/ddSlick#demo) - nice CSS pulldown with image and description support
 * [file tree](http://labs.abeautifulsite.net/archived/jquery-fileTree/demo/) - file tree pulldown
 * [Bootstrap Select](http://silviomoreto.github.io/bootstrap-select/) - alternative select menu for bootstrap
+* [tag autocomplete](http://sandglaz.github.io/bootstrap-tagautocomplete/) - ability to search and add people to a select list
 
 #### HTML5
 * [SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
