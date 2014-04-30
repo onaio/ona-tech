@@ -20,6 +20,9 @@
 * [DataTables](http://datatables.net/)
 * [DynaTable](http://www.dynatable.com/)
 
+#### Forms
+* [Chosen](http://harvesthq.github.io/chosen/) - jquery select library
+
 #### HTML5
 * [SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
 
