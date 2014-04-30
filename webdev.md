@@ -23,6 +23,7 @@
 #### Forms
 * [Chosen](http://harvesthq.github.io/chosen/) - jquery select library
 * [Selecter](http://formstone.it/components/Selecter/demo/index.html) - really clean jquery plugin for pull downs
+* [SelectBoxIt](http://gregfranko.com/jquery.selectBoxIt.js/#Examples) - Jquery / bootstrap pull down plugin
 
 #### HTML5
 * [SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
