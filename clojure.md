@@ -1,7 +1,7 @@
 ## Clojure
 
-* [http://java.ociweb.com/mark/clojure/article.html](http://java.ociweb.com/mark/clojure/article.html)
-
+* [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
+* [O'Reilly's Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 
 ## Midje Testing Library Documentation
 To import the testing library to a test suite:
