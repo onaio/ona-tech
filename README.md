@@ -12,7 +12,9 @@ Ona Tech related documentation and discussions.
 
 ## [Github](github.md)
 
-## [Jekyll](Jekyll.md)
+## [JavaScript](javascript.md)
+
+## [Jekyll](jekyll.md)
 
 ## [Linux](linux.md)
 
