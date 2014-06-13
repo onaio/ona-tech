@@ -1,6 +1,7 @@
 ## Clojure
 
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
+* [Clojure for the Brave](http://www.braveclojure.com/)
 * [O'Reilly's Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 
 ## Midje Testing Library Documentation
