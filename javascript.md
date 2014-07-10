@@ -5,3 +5,45 @@
 
 * [Mori](https://github.com/swannodette/mori)
   * ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript
+
+### MVC Frameworks
+* [FeatherJS](http://feathersjs.com/) - express based JS rest service
+
+### Javascript Charts
+* [dimplejs](http://dimplejs.org/) - refined D3 chart libary.
+* [justGage](http://justgage.com/) - gauge widget
+* [circles](https://github.com/lugolabs/circles) - circle charts
+* [datamaps](http://datamaps.github.io/) - simple svg maps
+* [25 d3 libraries](https://gist.github.com/widged/6820559)
+* [Rickshaw by Shutterstock](http://code.shutterstock.com/rickshaw) - Clean and simple
+* [Angular Charts](http://chinmaymk.github.io/angular-charts/)
+
+### Tables
+* [jquery spreadsheet](http://visop-dev.com/jQuery.sheet/jquery.sheet.html)
+* [Backgrid.js](http://backgridjs.com/)
+* [DataTables](http://datatables.net/)
+* [DynaTable](http://www.dynatable.com/)
+
+### Forms
+* [Chosen](http://harvesthq.github.io/chosen/) - jquery select library
+* [Selecter](http://formstone.it/components/Selecter/demo/index.html) - really clean jquery plugin for pull downs
+* [SelectBoxIt](http://gregfranko.com/jquery.selectBoxIt.js/#Examples) - Jquery / bootstrap pull down plugin
+* [DDSlick](http://designwithpc.com/Plugins/ddSlick#demo) - nice CSS pulldown with image and description support
+* [file tree](http://labs.abeautifulsite.net/archived/jquery-fileTree/demo/) - file tree pulldown
+* [Bootstrap Select](http://silviomoreto.github.io/bootstrap-select/) - alternative select menu for bootstrap
+* [tag autocomplete](http://sandglaz.github.io/bootstrap-tagautocomplete/) - ability to search and add people to a select list
+* [responsive nav](http://responsive-nav.com/demo/#) - good for phones & tablets
+#### HTML5
+* [SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
+
+### Utils
+* [PhantomJS](http://phantomjs.org/) - headless webkit
+
+### CSS
+* [colors.css](http://clrs.cc/) - nice color pallete. overwrite's defaults
+
+### Leaflet
+* [Location control](http://domoritz.de/leaflet-locatecontrol/demo) - widget to show your location on the map
+
+### Misc
+* [SpinKit](http://tobiasahlin.com/spinkit/) - some cool status icons
