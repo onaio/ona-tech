@@ -10,3 +10,6 @@
 
 ### Infrastructure Automation
 * [Pallet](http://palletops.com/doc/first-steps/) - Pallet is platform for agile and programmatic automation of infrastructure in the cloud, on server racks or directly on virtual machines.
+
+### Service Management
+* [Trapper Keeper](https://github.com/puppetlabs/trapperkeeper/wiki)
