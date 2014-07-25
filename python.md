@@ -5,6 +5,7 @@
 * [memory-profiling](http://django-notes.blogspot.com/2012/02/memory-profiling.html)
 * [Vishal Kanaujia, Chetan Giridhar: Dissecting memory mysteries of Python](http://www.youtube.com/watch?v=7glw_5YFU-Q)
 * [understanding-python-variables](http://foobarnbaz.com/2012/07/08/understanding-python-variables/)
+* [Django Debug Toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar)
 
 ### Data Viz
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html) - really nice matplotlib data viz library
