@@ -1,5 +1,9 @@
 ## Python
 
+### Learning Python
+* [Dive Into Python](http://www.diveintopython.net/)
+* [Think Python](http://www.greenteapress.com/thinkpython/)
+
 ### Python Memory Profiling
 * [python-performance-analysis](http://www.huyng.com/posts/python-performance-analysis/)
 * [memory-profiling](http://django-notes.blogspot.com/2012/02/memory-profiling.html)
