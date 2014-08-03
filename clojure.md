@@ -3,6 +3,7 @@
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [Clojure for the Brave](http://www.braveclojure.com/)
 * [O'Reilly's Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 
 ## Midje Testing Library Documentation
 To import the testing library to a test suite:
