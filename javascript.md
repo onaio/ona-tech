@@ -33,6 +33,11 @@
 * [Bootstrap Select](http://silviomoreto.github.io/bootstrap-select/) - alternative select menu for bootstrap
 * [tag autocomplete](http://sandglaz.github.io/bootstrap-tagautocomplete/) - ability to search and add people to a select list
 * [responsive nav](http://responsive-nav.com/demo/#) - good for phones & tablets
+
+### File managment
+* [Dropzone](http://www.dropzonejs.com/)
+* [Resumeable.js](http://www.resumablejs.com/) - fault tolerance for upload of bigger files.
+
 #### HTML5
 * [SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
 
