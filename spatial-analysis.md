@@ -7,3 +7,7 @@ Spatial Analysis
 ## Spatial Data Sources
 * [Gridded Population of the World](http://sedac.ciesin.columbia.edu/data/set/gpw-v3-population-count/data-download)
 * [US Census Global Data](http://census.gov/population/international/data/mapping)
+
+
+## PostGIS
+* (Useful PLpgSQL from CartoDB)[https://github.com/CartoDB/cartodb-postgresql/wiki/CartoDB-PLpgSQL]
