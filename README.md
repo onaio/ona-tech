@@ -29,3 +29,7 @@ Ona Tech related documentation and discussions.
 ## [Time Tracking](time-tracking.md)
 
 ## [Web Development](webdev.md)
+
+## General notes:
+
+* [Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
