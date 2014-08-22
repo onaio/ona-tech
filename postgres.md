@@ -25,3 +25,6 @@ Postgres
 
 **Geospatial**
 * [Introduction to PostGIS](http://workshops.boundlessgeo.com/postgis-intro/introduction.html)
+
+**Migrations**
+* [Stellar - Fast database snapshots for development. It's like Git for databases.](https://github.com/fastmonkeys/stellar)
