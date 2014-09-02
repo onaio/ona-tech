@@ -5,6 +5,7 @@
 * [O'Reilly's Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 * [Enlive - Clojure templating](https://github.com/cgrand/enlive) - used in Zebra
+* [Tower](https://github.com/ptaoussanis/tower) is a Clojure i18n & L10n library.
 
 ## Midje Testing Library Documentation
 To import the testing library to a test suite:
