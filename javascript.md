@@ -25,6 +25,7 @@
 * [Backgrid.js](http://backgridjs.com/)
 * [DataTables](http://datatables.net/)
 * [DynaTable](http://www.dynatable.com/)
+* [Sensei Grid](http://datazenit.com/static/sensei-grid/examples/) - grid with built in editing. potential good building block.
 
 ### Forms
 * [Chosen](http://harvesthq.github.io/chosen/) - jquery select library
