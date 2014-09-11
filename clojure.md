@@ -9,6 +9,7 @@
 
 ### Libraries
 * [Enlive - Clojure templating](https://github.com/cgrand/enlive) - used in Zebra
+* [Hiccup](https://github.com/weavejester/hiccup) - html representation through clojure data structures. Used by enlive, c2, and sablono.
 * [Tower](https://github.com/ptaoussanis/tower) is a Clojure i18n & L10n library.
 
 ### Midje Testing Library Documentation
@@ -28,3 +29,14 @@ Test case example:
 Midje also has autotest functionality that runs all the tests and then watches for changes to the source and test directories. When a file changes, it reloads the changed file and files that depend on it.
 
 Ref: [Midje Testing Tutorial](https://github.com/marick/Midje/wiki/A-tutorial-introduction)
+
+
+## Clojurescript
+
+ * Sharing code between clojure and clojurescript: [cljx](https://github.com/lynaghk/cljx)
+ * Compiling clojurescript in advanced mode. [Background Article](http://lukevanderhart.com/2011/09/30/using-javascript-and-clojurescript.html), [Externs](http://blog.8thlight.com/taryn-sauer/2014/07/31/clojurescript-faux-pas.html), [More on Externs](http://swannodette.github.io/2014/03/14/externs-got-you-down/)
+
+### Libraries
+
+ * [Om](https://github.com/swannodette/om)
+ * [Sablono](https://github.com/r0man/sablono) - like Hiccup for Om
