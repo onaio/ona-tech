@@ -33,6 +33,7 @@ Ref: [Midje Testing Tutorial](https://github.com/marick/Midje/wiki/A-tutorial-in
 
 ## Clojurescript
 
+ * Clojurescript [Cheatsheet](http://appletree.or.kr/quick_reference_cards/Others/ClojureScript%20Cheat%20Sheet.pdf)
  * Sharing code between clojure and clojurescript: [cljx](https://github.com/lynaghk/cljx)
  * Compiling clojurescript in advanced mode. [Background Article](http://lukevanderhart.com/2011/09/30/using-javascript-and-clojurescript.html), [Externs](http://blog.8thlight.com/taryn-sauer/2014/07/31/clojurescript-faux-pas.html), [More on Externs](http://swannodette.github.io/2014/03/14/externs-got-you-down/)
 
