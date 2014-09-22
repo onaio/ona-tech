@@ -37,6 +37,7 @@ Ref: [Midje Testing Tutorial](https://github.com/marick/Midje/wiki/A-tutorial-in
  * Sharing code between clojure and clojurescript: [cljx](https://github.com/lynaghk/cljx)
  * Compiling clojurescript in advanced mode. [Background Article](http://lukevanderhart.com/2011/09/30/using-javascript-and-clojurescript.html), [Externs](http://blog.8thlight.com/taryn-sauer/2014/07/31/clojurescript-faux-pas.html), [More on Externs](http://swannodette.github.io/2014/03/14/externs-got-you-down/)
  * [ClojureScript.net Translations from JavaScript](https://kanaka.github.io/clojurescript/web/synonym.html)
+ * [Modern ClojureScript](https://github.com/magomimmo/modern-cljs)
 
 ### Libraries
 
