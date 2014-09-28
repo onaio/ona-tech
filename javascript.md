@@ -52,6 +52,11 @@
 
 ### Leaflet
 * [Location control](http://domoritz.de/leaflet-locatecontrol/demo) - widget to show your location on the map
+* [Font awesome controllers](http://cliffcloud.github.io/Leaflet.EasyButton/) - easy way to add font Awesome icons in a controller
+* [Style layer controller](https://github.com/davicustodio/Leaflet.StyledLayerControl) - visually appealing layer controllers (we will want to tweak).  See [this](http://davicustodio.github.io/Leaflet.StyledLayerControl/examples/example2.html) - might be really helpful for when we want to have multiple datasets on the map.
+* [layer order level controller](http://elesdoar.github.io/leaflet-control-orderlayers/) - controllers allowing setting the layer order
+* [layer opacity controls](https://github.com/lizardtechblog/Leaflet.OpacityControls) - opacity controls
+* [semi circle markers](http://jieter.github.io/Leaflet-semicircle/example-semicircle.html) - abiity to create different wedge shapes instead of just a cirlce.  Could be useful for indicator progress later on.
 
 ### Misc
 * [SpinKit](http://tobiasahlin.com/spinkit/) - some cool status icons
