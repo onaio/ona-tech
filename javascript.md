@@ -58,5 +58,8 @@
 * [layer opacity controls](https://github.com/lizardtechblog/Leaflet.OpacityControls) - opacity controls
 * [semi circle markers](http://jieter.github.io/Leaflet-semicircle/example-semicircle.html) - abiity to create different wedge shapes instead of just a cirlce.  Could be useful for indicator progress later on.
 
+### Reacts
+* [Chrolopleth maps in react and D3](http://pleasetrythisathome.github.io/react%20d3%20visualization%20choropleth/2014/03/20/react-choropleth.html)
+
 ### Misc
 * [SpinKit](http://tobiasahlin.com/spinkit/) - some cool status icons
