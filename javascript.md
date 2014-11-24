@@ -19,6 +19,7 @@
 * [Angular Charts](http://chinmaymk.github.io/angular-charts/)
 * [Peity](http://benpickles.github.io/peity/) - SVG charts. Could be useful for background summary stats on submissions.
 * [Crosslet](http://sztanko.github.io/crosslet/) - geostatistcal charting library
+* [ECharts](http://echarts.baidu.com/doc/example-en.html) - from Baidu. Some nice mapping widgets
 
 ### Tables
 * [jquery spreadsheet](http://visop-dev.com/jQuery.sheet/jquery.sheet.html)
