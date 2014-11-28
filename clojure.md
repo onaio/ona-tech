@@ -6,6 +6,8 @@
 * [O'Reilly's Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 * [Clojure cheatsheet](http://clojure.org/cheatsheet)
+Articles:
+* [Polymorphism in clojure](http://blog.8thlight.com/myles-megyesi/2012/04/26/polymorphism-in-clojure.html)
 
 ### Libraries
 * [Enlive - Clojure templating](https://github.com/cgrand/enlive) - used in Zebra
@@ -33,6 +35,11 @@ Ref: [Midje Testing Tutorial](https://github.com/marick/Midje/wiki/A-tutorial-in
 
 ## ClojureScript
 
+Getting started
+ * [Lighttable Clojurescript intro by David Nolen](https://github.com/swannodette/lt-cljs-tutorial)
+ * [Moden CLJS](https://github.com/magomimmo/modern-cljs)
+
+Resources
  * Clojurescript [Cheatsheet](http://appletree.or.kr/quick_reference_cards/Others/ClojureScript%20Cheat%20Sheet.pdf)
  * Sharing code between clojure and clojurescript: [cljx](https://github.com/lynaghk/cljx)
  * Compiling clojurescript in advanced mode. [Background Article](http://lukevanderhart.com/2011/09/30/using-javascript-and-clojurescript.html), [Externs](http://blog.8thlight.com/taryn-sauer/2014/07/31/clojurescript-faux-pas.html), [More on Externs](http://swannodette.github.io/2014/03/14/externs-got-you-down/)
