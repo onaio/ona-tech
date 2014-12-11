@@ -39,7 +39,8 @@ Ref: [Midje Testing Tutorial](https://github.com/marick/Midje/wiki/A-tutorial-in
 
 Getting started
  * [Lighttable Clojurescript intro by David Nolen](https://github.com/swannodette/lt-cljs-tutorial)
- * [Moden CLJS](https://github.com/magomimmo/modern-cljs)
+ * [Modern CLJS](https://github.com/magomimmo/modern-cljs)
+ * [Differences from Clojure--on the Clojurescript repo](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
 
 Resources
  * Clojurescript [Cheatsheet](http://appletree.or.kr/quick_reference_cards/Others/ClojureScript%20Cheat%20Sheet.pdf)
