@@ -4,6 +4,8 @@
 * [Clojure for the Brave](http://www.braveclojure.com/) - good intro to Clojure
   * The chapters on macros are great: [Read, Eval, and Macros](http://www.braveclojure.com/read-and-eval/), and [Writing Macros](http://www.braveclojure.com/writing-macros/)
 * [O'Reilly's Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Joy of Clojure](http://www.joyofclojure.com/toc/index.html)
+Cheatsheets:
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 * [Clojure cheatsheet](http://clojure.org/cheatsheet)
 Articles:
