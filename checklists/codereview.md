@@ -9,6 +9,6 @@ A brief "checklist" that may be helpful to go through in a code review
  * [ ] Code is tested as appropriate. Tests are a must have in general, but particularly so for regressions. [1]
  * [ ] DRY (Don't Repeat Yourself).
  * [ ] Related: if multiple similar problems are being solved, can abstractions be created? Note: 1 use case does not an abtraction merit; premature abstractions are problematic as well.
- * [ ] Documentation: do all new functions have docstrings? Are docstrings modified if they need to be? Outdated documentation is worse than no documentation, which is much worse than good and up to date documentation.
+ * [ ] Documentation: do all new functions have docstrings? Are docstrings modified if they need to be? Outdated documentation is worse than no documentation, which is much worse than [good](https://github.com/onaio/ona-tech/blob/master/checklists/docs.md) and up to date documentation.
 
 [1] - The one exception is if we haven't solved *how* to test certain things yet. Eg. asynchronous tests in CLJS were not figured out in Zebra by Dec 2014.
