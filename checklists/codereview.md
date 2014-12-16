@@ -1,4 +1,4 @@
-What to look for when doing a code review.
+What to look for when doing a code review
 ---
 
 Code is read MUCH MUCH MORE than it is written. When you are reviewing code, you are not just helping the author make sure that they wrote code that solves an issue correctly. You are helping ensure that the code they wrote is easy to **read** and maintain over the long term, and is thoroughly devoid of ["code smell"](http://en.wikipedia.org/wiki/Code_smell).
