@@ -17,6 +17,7 @@ Articles:
 * [Enlive - Clojure templating](https://github.com/cgrand/enlive) - used in Zebra
 * [Hiccup](https://github.com/weavejester/hiccup) - html representation through clojure data structures. Used by enlive, c2, and sablono.
 * [Tower](https://github.com/ptaoussanis/tower) is a Clojure i18n & L10n library.
+* [Elastisch](http://clojureelasticsearch.info/) elasti search library in Clojure.
 
 ### Midje Testing Library Documentation
 To import the testing library to a test suite:
