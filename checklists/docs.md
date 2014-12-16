@@ -1,4 +1,4 @@
-How to write good doc strings
+How to write good docs and doc strings
 ---
 
 Documentation is important.
