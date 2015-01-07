@@ -10,6 +10,7 @@
   * ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript
   * 
   
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) - This is a series of books diving deep into the core mechanisms of the JavaScript language.
 
 ### MVC Frameworks
 * [FeatherJS](http://feathersjs.com/) - express based JS rest service
