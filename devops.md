@@ -13,3 +13,6 @@
 
 ### Service Management
 * [Trapper Keeper](https://github.com/puppetlabs/trapperkeeper/wiki)
+
+### Ansible
+* [ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
