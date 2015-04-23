@@ -55,4 +55,5 @@ Resources
 ### Libraries
 
  * [Om](https://github.com/swannodette/om)
+   * [React Refracted](https://www.youtube.com/watch?v=5hGHdETNteE), [reddit notes](https://www.reddit.com/r/Clojurescript/comments/2vnsis/seeing_reactjs_from_clojurescript_perspective/)
  * [Sablono](https://github.com/r0man/sablono) - like Hiccup for Om
