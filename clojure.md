@@ -1,5 +1,6 @@
 ## Clojure
 
+* [Learning Clojure](https://github.com/boston-clojure/learning-clojure) - learning and teaching links
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [Clojure for the Brave](http://www.braveclojure.com/) - good intro to Clojure
   * The chapters on macros are great: [Read, Eval, and Macros](http://www.braveclojure.com/read-and-eval/), and [Writing Macros](http://www.braveclojure.com/writing-macros/)
