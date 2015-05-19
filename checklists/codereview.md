@@ -28,4 +28,10 @@ The checklist of smells taken directly from the ["code smell"](http://en.wikiped
 * [ ] Cyclomatic complexity: too many branches or loops; this may indicate a function needs to be broken up into smaller functions, or that it has potential for simplification.
 * [ ] Downcasting: a type cast which breaks the abstraction model; the abstraction may have to be refactored or eliminated.[5]
 
+Code Review Resources
+---
+
+* [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html) - What to look for in a review and how to discuss code under review.
+* [Implementing a Strong Code-Review Culture](https://www.youtube.com/watch?v=PJjmw9TRB7s#t=12) - [VIDEO]  Code reviews are not about catching bugs. Modern code reviews are about socialization, learning, and teaching.
+
 [1] - The one exception is if we haven't solved *how* to test certain things yet. Eg. asynchronous tests in CLJS were not figured out in Zebra by Dec 2014.
