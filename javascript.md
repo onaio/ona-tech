@@ -43,6 +43,7 @@
 * [Bootstrap Select](http://silviomoreto.github.io/bootstrap-select/) - alternative select menu for bootstrap
 * [tag autocomplete](http://sandglaz.github.io/bootstrap-tagautocomplete/) - ability to search and add people to a select list
 * [responsive nav](http://responsive-nav.com/demo/#) - good for phones & tablets
+* [Baremetrics date picker](https://github.com/Baremetrics/calendar) 
 
 ### File managment
 * [Dropzone](http://www.dropzonejs.com/)
