@@ -38,6 +38,9 @@ Midje also has autotest functionality that runs all the tests and then watches f
 
 Ref: [Midje Testing Tutorial](https://github.com/marick/Midje/wiki/A-tutorial-introduction)
 
+### Development Environments
+
+* [clojure-emacs shortcuts](https://github.com/clojure-emacs/cider#keyboard-shortcuts)
 
 ## ClojureScript
 
