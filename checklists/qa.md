@@ -31,3 +31,5 @@ How a QAing flow happens via this channel:
 or, much less likely:
 
 > `jmunene:` "1337 failed QA, downloaded forms are still blank, try with this [link to a page with a download XLS form button]" 
+
+If a problem is found, you should call it out and mark it in the [QA document](https://docs.google.com/spreadsheets/d/1f5hlQBiAZ8fBFZ_rRaJ1wmwaufYXLFuLK46fNyYZQKM/edit). Also, reopen the issue with details of the problem, put it in the current milestone, and ping the person who was assigned. If the problem blocks deploy, mark it in the "Blocker" column.
