@@ -3,6 +3,7 @@
 
 Ona Tech related documentation and discussions.
 
+## [Artificial Intelligence](ai.md)
 
 ## [Clojure](clojure.md)
 
