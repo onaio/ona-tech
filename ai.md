@@ -9,3 +9,7 @@
 ### LSTMs
 
 * [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
+
+### Platforms
+
+* [Michelangelo](https://eng.uber.com/michelangelo/)
